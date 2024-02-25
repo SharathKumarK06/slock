@@ -1,0 +1,4 @@
+*.o
+slock
+*.swp
+*.swo
